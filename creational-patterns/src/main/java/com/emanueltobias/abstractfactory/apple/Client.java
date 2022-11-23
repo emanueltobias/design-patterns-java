@@ -3,7 +3,6 @@ package com.emanueltobias.abstractfactory.apple;
 import com.emanueltobias.abstractfactory.apple.factory.IPhone11Factory;
 import com.emanueltobias.abstractfactory.apple.factory.IPhoneFactory;
 import com.emanueltobias.abstractfactory.apple.factory.IPhoneXFactory;
-import com.emanueltobias.abstractfactory.apple.factory.abstractFactory.BrazilianRulesAbstractFactory;
 import com.emanueltobias.abstractfactory.apple.factory.abstractFactory.CountryRulesAbstractFactory;
 import com.emanueltobias.abstractfactory.apple.factory.abstractFactory.USRulesAbstractFactory;
 import com.emanueltobias.abstractfactory.apple.model.iphone.IPhone;
